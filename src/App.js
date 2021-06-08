@@ -9,7 +9,7 @@ import {
 } from "react-router-dom";
 import OldNews from './Components/OldNews/OldNews';
 import Other from './Components/Other/Other';
-import TopNews from './Components/UpdateNews/TopNews';
+import TopNews from './Components/TopNews/TopNews';
 
 function App() {
   return (

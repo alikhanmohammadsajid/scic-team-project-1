@@ -2,7 +2,7 @@ import React from 'react';
 
 const Other = () => {
     return (
-        <div className="">
+        <div className="container m-5">
             <div class="card border-info mb-3 text-center" style={{ maxWidth: '18rem' }}>
                 <div class="card-header">Sports</div>
                 <div class="card-body">
